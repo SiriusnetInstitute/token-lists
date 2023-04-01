@@ -11,12 +11,12 @@
       "name": "Stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
-    "compound": {
-      "name": "Compound Finance",
-      "description": "Tokens that earn interest on compound.finance"
+    "Siriuswap": {
+      "name": "Siriuswap",
+      "description": "Tokens that earn interest on Siriuswap"
     }
   },
-  "timestamp": "2020-06-12T00:00:00+00:00",
+  "timestamp": "2023-04-02T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 10103,
@@ -31,9 +31,9 @@
     },
     {
       "chainId": 10103,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "symbol": "cUSDC",
-      "name": "Compound USD Coin",
+      "address": "0xdb0F705476b18f4F30FedED0A1Bd569B3C13a7A7",
+      "symbol": "CT",
+      "name": "CT",
       "decimals": 8,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
