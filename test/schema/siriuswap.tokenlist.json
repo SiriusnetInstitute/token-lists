@@ -29,6 +29,17 @@
         "stablecoin"
       ]
     },
+        {
+      "chainId": 10103,
+      "address": "0x511C279B770b59c3e89680C2D89b52BC44Ea75C7",
+      "symbol": "WMCD",
+      "name": "Wappred MCD",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWB4nrxAK4isEbL7yzLTXouRe8E3RvT3Ut6ZuPBVMHv2A/MCD.png",
+      "tags": [
+        "stablecoin"
+      ]
+    },
     {
       "chainId": 10103,
       "address": "0xdb0F705476b18f4F30FedED0A1Bd569B3C13a7A7",
