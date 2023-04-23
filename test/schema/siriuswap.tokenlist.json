@@ -45,7 +45,7 @@
       "address": "0xdb0F705476b18f4F30FedED0A1Bd569B3C13a7A7",
       "symbol": "CT",
       "name": "CT",
-      "decimals": 8,
+      "decimals": 6,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
         "compound"
