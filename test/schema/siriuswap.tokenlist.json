@@ -50,11 +50,23 @@
       "tags": [
         "compound"
       ]
+    },
+        {
+      "chainId": 10103,
+      "address": "0x8F13b40De4055596Cd0aFD7dA246EB35944cAfCd",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "ipfs://QmPkLX8F7RySxo5HzCEFKZ3CNJUuDcc9q23bhCnkZP6Yfu/USDT.png",
+      "tags": [
+        "compound"
+      ]
     }
   ],
+  
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
