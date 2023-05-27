@@ -19,10 +19,10 @@
   "timestamp": "2023-04-02T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 10103,
-      "address": "0x29b15602be9601e9051C1ba8b913675fF6Ab60a0",
-      "symbol": "SMCL",
-      "name": "SMCL",
+      "chainId": 217,
+      "address": "0x0f3189b0abC55CEf856180e14183176Ac9EB3efB",
+      "symbol": "SINT",
+      "name": "Siriusnet Token",
       "decimals": 6,
       "logoURI": "ipfs://QmUWxMVbQzNJrJV8tLkm35o2bhvm8kuuTGnBZSKZHndskG/MCL.png",
       "tags": [
@@ -30,8 +30,8 @@
       ]
     },
         {
-      "chainId": 10103,
-      "address": "0x511C279B770b59c3e89680C2D89b52BC44Ea75C7",
+      "chainId": 217,
+      "address": "0xA7f88F66C49A7FF3aDD8496313A45Df3fedac628",
       "symbol": "WMCD",
       "name": "Wappred MCD",
       "decimals": 18,
@@ -41,19 +41,19 @@
       ]
     },
     {
-      "chainId": 10103,
-      "address": "0xdb0F705476b18f4F30FedED0A1Bd569B3C13a7A7",
-      "symbol": "CT",
-      "name": "CT",
-      "decimals": 6,
+      "chainId": 217,
+      "address": "0x7d221Ca4EE04A3582bF5376A2350857D2d502e20",
+      "symbol": "TICKET",
+      "name": "Battle Ticket",
+      "decimals": 18,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
         "compound"
       ]
     },
         {
-      "chainId": 10103,
-      "address": "0x8F13b40De4055596Cd0aFD7dA246EB35944cAfCd",
+      "chainId": 217,
+      "address": "0x44dEbED386b6575009F9BA2afcE6e7e1Cc54B42d",
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
@@ -65,7 +65,7 @@
   ],
   
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 1
   }
