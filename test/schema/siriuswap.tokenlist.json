@@ -20,7 +20,7 @@
   "tokens": [
     {
       "chainId": 217,
-      "address": "0x0f3189b0abC55CEf856180e14183176Ac9EB3efB",
+      "address": "0x7d221Ca4EE04A3582bF5376A2350857D2d502e20",
       "symbol": "SINT",
       "name": "Siriusnet Token",
       "decimals": 6,
@@ -31,7 +31,7 @@
     },
         {
       "chainId": 217,
-      "address": "0xA7f88F66C49A7FF3aDD8496313A45Df3fedac628",
+      "address": "0xA7464Ee05CCc0f86Db8DA34b6B15eCF4d7d64965",
       "symbol": "WMCD",
       "name": "Wappred MCD",
       "decimals": 18,
@@ -42,7 +42,7 @@
     },
     {
       "chainId": 217,
-      "address": "0x7d221Ca4EE04A3582bF5376A2350857D2d502e20",
+      "address": "0x018D37b51bbdE74854D3251a4d2D4efb3FC0E12c",
       "symbol": "TICKET",
       "name": "Battle Ticket",
       "decimals": 18,
@@ -53,7 +53,7 @@
     },
         {
       "chainId": 217,
-      "address": "0x44dEbED386b6575009F9BA2afcE6e7e1Cc54B42d",
+      "address": "0x05f84270830065c9bE960b6fAadbA6BA09a5B241",
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
