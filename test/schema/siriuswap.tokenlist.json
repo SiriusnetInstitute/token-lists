@@ -23,7 +23,7 @@
       "address": "0x05f84270830065c9bE960b6fAadbA6BA09a5B241",
       "symbol": "SINT",
       "name": "Siriusnet Token",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "ipfs://QmUWxMVbQzNJrJV8tLkm35o2bhvm8kuuTGnBZSKZHndskG/MCL.png",
       "tags": [
         "stablecoin"
