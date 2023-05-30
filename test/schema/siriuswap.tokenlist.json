@@ -20,7 +20,7 @@
   "tokens": [
     {
       "chainId": 217,
-      "address": "0x7d221Ca4EE04A3582bF5376A2350857D2d502e20",
+      "address": "0x05f84270830065c9bE960b6fAadbA6BA09a5B241",
       "symbol": "SINT",
       "name": "Siriusnet Token",
       "decimals": 6,
@@ -53,7 +53,7 @@
     },
         {
       "chainId": 217,
-      "address": "0x05f84270830065c9bE960b6fAadbA6BA09a5B241",
+      "address": "0x7d221Ca4EE04A3582bF5376A2350857D2d502e20",
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
