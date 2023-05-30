@@ -1,72 +1,34 @@
-{
-  "name": "Siriuswap Token List",
-  "logoURI": "ipfs://QmW1hPg9xa1tqYKGkcEScQEoGShT11tRsrotPB1JU4YWEc/werwer23r2.png",
-  "keywords": [
-    "audited",
-    "verified",
-    "special tokens"
-  ],
-  "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "Siriuswap": {
-      "name": "Siriuswap",
-      "description": "Tokens that earn interest on Siriuswap"
-    }
+[
+  {
+    "name": "Wrapped MCD",
+    "address": "0xA7464Ee05CCc0f86Db8DA34b6B15eCF4d7d64965",
+    "symbol": "WMCD",
+    "decimals": 18,
+    "chainId": 217,
+    "logoURI": "https://raw.githubusercontent.com/SiriusnetInstitute/Siriusnet_spec/main/img/MCD.png",
+  {
+    "name": "Siriusnet Token",
+    "address": "0x05f84270830065c9bE960b6fAadbA6BA09a5B241",
+    "symbol": "SINT",
+    "decimals": 18,
+    "chainId": 217,
+    "logoURI": "https://raw.githubusercontent.com/SiriusnetInstitute/Siriusnet_spec/main/img/MCL.png"
   },
-  "timestamp": "2023-04-02T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 217,
-      "address": "0x05f84270830065c9bE960b6fAadbA6BA09a5B241",
-      "symbol": "SINT",
-      "name": "Siriusnet Token",
-      "decimals": 18,
-      "logoURI": "ipfs://QmUWxMVbQzNJrJV8tLkm35o2bhvm8kuuTGnBZSKZHndskG/MCL.png",
-      "tags": [
-        "stablecoin"
-      ]
-    },
-        {
-      "chainId": 217,
-      "address": "0xA7464Ee05CCc0f86Db8DA34b6B15eCF4d7d64965",
-      "symbol": "WMCD",
-      "name": "Wappred MCD",
-      "decimals": 18,
-      "logoURI": "ipfs://QmWB4nrxAK4isEbL7yzLTXouRe8E3RvT3Ut6ZuPBVMHv2A/MCD.png",
-      "tags": [
-        "stablecoin"
-      ]
-    },
-    {
-      "chainId": 217,
-      "address": "0x018D37b51bbdE74854D3251a4d2D4efb3FC0E12c",
-      "symbol": "TICKET",
-      "name": "Battle Ticket",
-      "decimals": 18,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-      "tags": [
-        "ticket"
-      ]
-    },
-        {
-      "chainId": 217,
-      "address": "0x7d221Ca4EE04A3582bF5376A2350857D2d502e20",
-      "symbol": "USDT",
-      "name": "Tether USD",
-      "decimals": 6,
-      "logoURI": "ipfs://QmPkLX8F7RySxo5HzCEFKZ3CNJUuDcc9q23bhCnkZP6Yfu/USDT.png",
-      "tags": [
-        "stablecoin"
-      ]
-    }
-  ],
-  
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  {
+    "name": "Battle Ticket",
+    "address": "0x018D37b51bbdE74854D3251a4d2D4efb3FC0E12c",
+    "symbol": "TICKET",
+    "decimals": 18,
+    "chainId": 217,
+    "logoURI": "https://raw.githubusercontent.com/SiriusnetInstitute/Siriusnet_spec/main/img/CT.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x7d221Ca4EE04A3582bF5376A2350857D2d502e20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 217,
+    "logoURI": "ipfs://QmPkLX8F7RySxo5HzCEFKZ3CNJUuDcc9q23bhCnkZP6Yfu/USDT.png"
+  },
 }
+]
