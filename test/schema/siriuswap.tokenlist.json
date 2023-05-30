@@ -6,6 +6,7 @@
     "decimals": 18,
     "chainId": 217,
     "logoURI": "https://raw.githubusercontent.com/SiriusnetInstitute/Siriusnet_spec/main/img/MCD.png",
+  },
   {
     "name": "Siriusnet Token",
     "address": "0x05f84270830065c9bE960b6fAadbA6BA09a5B241",
@@ -29,6 +30,5 @@
     "decimals": 6,
     "chainId": 217,
     "logoURI": "ipfs://QmPkLX8F7RySxo5HzCEFKZ3CNJUuDcc9q23bhCnkZP6Yfu/USDT.png"
-  },
 }
 ]
