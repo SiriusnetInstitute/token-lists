@@ -1,11 +1,20 @@
-[
-  {
+{
+  "name": "My Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+ {
     "name": "Wrapped MCD",
     "address": "0xA7464Ee05CCc0f86Db8DA34b6B15eCF4d7d64965",
     "symbol": "WMCD",
     "decimals": 18,
     "chainId": 217,
     "logoURI": "https://raw.githubusercontent.com/SiriusnetInstitute/Siriusnet_spec/main/img/MCD.png",
+    "tags": [
+    "stablecoin"
   },
   {
     "name": "Siriusnet Token",
@@ -14,6 +23,8 @@
     "decimals": 18,
     "chainId": 217,
     "logoURI": "https://raw.githubusercontent.com/SiriusnetInstitute/Siriusnet_spec/main/img/MCL.png"
+    "tags": [
+    "stablecoin"    
   },
   {
     "name": "Battle Ticket",
@@ -22,6 +33,8 @@
     "decimals": 18,
     "chainId": 217,
     "logoURI": "https://raw.githubusercontent.com/SiriusnetInstitute/Siriusnet_spec/main/img/CT.png"
+    "tags": [
+    "ticken"
   },
   {
     "name": "Tether USD",
@@ -30,5 +43,14 @@
     "decimals": 6,
     "chainId": 217,
     "logoURI": "ipfs://QmPkLX8F7RySxo5HzCEFKZ3CNJUuDcc9q23bhCnkZP6Yfu/USDT.png"
+    "tags": [
+    "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
-]
