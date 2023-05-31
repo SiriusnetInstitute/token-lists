@@ -4,7 +4,8 @@
   "keywords": [
     "audited",
     "verified",
-    "special tokens"
+    "stablecoin",
+    "ticket"
   ],
   "tags": {
     "stablecoin": {
@@ -26,7 +27,8 @@
       "decimals": 18,
       "logoURI": "ipfs://QmUWxMVbQzNJrJV8tLkm35o2bhvm8kuuTGnBZSKZHndskG/MCL.png",
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "verified"
       ]
     },
         {
@@ -64,7 +66,7 @@
     }
   ],  
   "version": {
-    "major": 1,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
