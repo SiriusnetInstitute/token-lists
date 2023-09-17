@@ -43,7 +43,7 @@
     }
   ],  
   "version": {
-    "Major": 4,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
