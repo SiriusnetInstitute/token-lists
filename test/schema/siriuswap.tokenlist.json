@@ -41,6 +41,17 @@
         "stablecoin"
       ]
     }
+        {
+      "chainId": 217,
+      "address": "0xA7464Ee05CCc0f86Db8DA34b6B15eCF4d7d64965",
+      "symbol": "WMCD",
+      "name": "Wrap MCD",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWB4nrxAK4isEbL7yzLTXouRe8E3RvT3Ut6ZuPBVMHv2A/MCD.png",
+      "tags": [
+        "stablecoin"
+      ]
+    }
   ],  
   "version": {
     "major": 4,
