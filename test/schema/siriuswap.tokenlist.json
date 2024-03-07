@@ -20,9 +20,9 @@
   "tokens": [
     {
       "chainId": 217,
-      "address": "0x29b15602be9601e9051C1ba8b913675fF6Ab60a0",
+      "address": "0x4eE519a0c6ec0aC2b205a3dE4BFABbb01162A315",
       "symbol": "SINT",
-      "name": "Siriusnet Token",
+      "name": "SiriusnetToken",
       "decimals": 6,
       "logoURI": "ipfs://Qmb1axRtJjr98Ju8BL1WK4igm3egEdKK5skA4gwHdzpvUZ/LOGOOGOGOG.png",
       "tags": [
@@ -32,7 +32,7 @@
     },
         {
       "chainId": 217,
-      "address": "0xcF38F640e8a9dd79837fa39A25a873A620d1844a",
+      "address": "0xaba6F807fFEAA36fD845aA6E1A165597784a1efb",
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
@@ -43,7 +43,7 @@
     },
         {
       "chainId": 217,
-      "address": "0xA7464Ee05CCc0f86Db8DA34b6B15eCF4d7d64965",
+      "address": "0xA5A4fC049E1c7d7a43475f79cE7F6ef92c8378d1",
       "symbol": "WMCD",
       "name": "Wrap MCD",
       "decimals": 18,
